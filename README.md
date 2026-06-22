@@ -27,4 +27,3 @@ How to use
 After starting both the frontend and backend servers, you can input your destination, travel dates, and budget preference to receive a custom travel plan.
 
 
-Do you have any other questions about your project before you share your link on LinkedIn?
