@@ -26,6 +26,5 @@ MONGODB_URI=your_mongodb_connection_string
 How to use
 After starting both the frontend and backend servers, you can input your destination, travel dates, and budget preference to receive a custom travel plan.
 
-Once you paste this into your README.md file and save it, don't forget to run git add README.md, git commit -m "Add README", and git push to make it live on GitHub!
 
 Do you have any other questions about your project before you share your link on LinkedIn?
